@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Matheus Honorato <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 Estudante de Ciência da computação, apaixonado por tecnologia. Atualmente estou buscando desenvolver e aprimorar minhas habilidades técnicas e comportamentais. Dentre as competências que estou buscando desenvolver e ganhar experiências, estão: JAVA, JAVASCRIPT, MySQL.<br><br>
-- 🔭 Hoje trabalho com backend<br>
-- 🌱 Atualmente estou estudando Java
+- 🔭 Hoje trabalho com Data Analytics<br>
+- 🌱 Atualmente estou focando meus estudos em Engenharia de dados.
 
 ## Habilidades :muscle:
 Estas são algumas das principais tecnologias que eu uso ou já usei no passado:
