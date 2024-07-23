@@ -1,24 +1,24 @@
 <h1>Olá, eu sou Matheus Honorato <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-Estudante de Ciência da computação, apaixonado por tecnologia. Atualmente estou buscando desenvolver e aprimorar minhas habilidades técnicas e comportamentais. Dentre as competências que estou buscando desenvolver e ganhar experiências, estão: JAVA, JAVASCRIPT, MySQL.<br><br>
-- 🔭 Hoje trabalho com Data Analytics<br>
-- 🌱 Atualmente estou focando meus estudos em Engenharia de dados.
 
-## Habilidades :muscle:
+- Estudante de Ciência da computação<br>
+- Hoje trabalho com Data Analytics<br>
+- Atualmente estou focando meus estudos em Engenharia de dados.
+
+
+
+## **Habilidades**
 Estas são algumas das principais tecnologias que eu uso ou já usei no passado:
 
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge) 
+![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=for-the-badge) 
+![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge) 
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge) 
+![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=for-the-badge) 
+![Looker Badge](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge) 
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) 
 
-<img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|<img title="Csharp" alt="Csharp" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-|--|--|--|--|--|--|
-
-**Banco De Dados**
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
-|--|
-
-**Ferramentas**
-
-<img title="VS Code" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">|<img title="git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-|--|--|
-<br>
 
 ## Minhas estatísticas :bar_chart:
 <div align="center">
