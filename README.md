@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Matheus Honorato <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - Estudante de Ciência da computação<br>
-- Hoje trabalho com Data Analytics<br>
+- Hoje trabalho como Analytics Engineer<br>
 - Atualmente estou focando meus estudos em Engenharia de dados.
 
 
